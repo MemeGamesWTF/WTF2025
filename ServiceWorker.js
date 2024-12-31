@@ -1,9 +1,9 @@
-const cacheName = "DefaultCompany-MemeBall-0.1";
+const cacheName = "DefaultCompany-WTF2025-0.1";
 const contentToCache = [
-    "Build/Build.loader.js",
-    "Build/Build.framework.js",
-    "Build/Build.data",
-    "Build/Build.wasm",
+    "Build/WTF2025.loader.js",
+    "Build/WTF2025.framework.js",
+    "Build/WTF2025.data",
+    "Build/WTF2025.wasm",
     "TemplateData/style.css"
 
 ];
